@@ -1,3 +1,4 @@
+Hello My Discord is uncharted_u
 # lottery.aleo
 
 ## Run Guide
